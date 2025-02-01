@@ -10,3 +10,7 @@ new
 changes made in vscode 
 hh
 new changes again 
+
+
+## Feature addition 
+    adding sums 
